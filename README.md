@@ -26,7 +26,7 @@ Sample data:
 
 ```
 List of methods:
-
+GET:
 - http://localhost:8080/contacts - Select all
 - http://localhost:8080/contacts/{id} - Select by id
 - http://localhost:8080/contacts/name/{lastName} - Select by lastName
